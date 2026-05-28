@@ -1,0 +1,24 @@
+# Ignore all textbook and resource binaries
+*.pdf
+*.epub
+*.apkg
+
+# Ignore local resources folders entirely
+**/01_Resources/
+
+# Ignore compiled LaTeX junk
+*.aux
+*.dvi
+*.log
+*.toc
+*.synctex.gz
+
+# Ignore local Obsidian configuration and workspace states
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/backups/
+.obsidian/plugins/
+.trash/
+
+# Ignore private/sensitive daily logs if you choose to keep them private
+# 10_Logs_and_Progress/01_Daily_Logs/

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: fuzlr-ccktt
+created: 2026-02-23T13:52:53+01:00
