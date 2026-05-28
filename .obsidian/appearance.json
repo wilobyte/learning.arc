@@ -1,9 +1,0 @@
-{
-  "cssTheme": "Typomagical",
-  "baseFontSize": 15,
-  "enabledCssSnippets": [
-    "apply-pywal",
-    "pywal"
-  ],
-  "theme": "obsidian"
-}
